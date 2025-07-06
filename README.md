@@ -11,7 +11,7 @@
 
 *MENTOR*:VAISHALI
 
-## As part of my internship at Codetech Solutions, I was assigned my second task to build a Speech Recognition System using Python. The main objective of this project was to develop a tool that could automatically recognize spoken language and convert it into written text. This task gave me hands-on exposure to one of the most interesting applications of Artificial Intelligence — Automatic Speech Recognition (ASR).
+##As part of my internship at Codetech Solutions, I was assigned my second task to build a Speech Recognition System using Python. The main objective of this project was to develop a tool that could automatically recognize spoken language and convert it into written text. This task gave me hands-on exposure to one of the most interesting applications of Artificial Intelligence — Automatic Speech Recognition (ASR).
 
 The core idea behind this system was to take a voice input in the form of an audio file and convert that voice into a text transcript using machine learning techniques. I implemented the entire project on Google Colab, which provided an easy-to-use, cloud-based Python environment with access to GPU support and pre-installed libraries.
 
@@ -43,3 +43,8 @@ Model-related errors while tokenizing and decoding the output
 
 
 However, by referring to online forums, videos, and step-by-step debugging with ChatGPT, I was able to solve these issues and complete the task successfully.
+
+---
+
+output:
+<img width="1439" height="164" alt="Image" src="https://github.com/user-attachments/assets/87233daa-d05a-40cc-9390-bf482c171f2d" />
