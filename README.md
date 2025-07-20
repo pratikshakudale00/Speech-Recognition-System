@@ -61,3 +61,4 @@ Built foundational expertise in audio processing, API integration, and error han
 Strengthened problem-solving and learning practices through online tutorials and AI-powered assistance.
 
 #output
+<img width="960" height="220" alt="Image" src="https://github.com/user-attachments/assets/85c11a52-1624-45fd-a507-5dcc3c1b563c" />
