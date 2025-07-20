@@ -62,4 +62,5 @@ Strengthened problem-solving and learning practices through online tutorials and
 
 ---
 #output
+
 <img width="836" height="301" alt="Image" src="https://github.com/user-attachments/assets/9f8188ad-0b0c-4f12-9e6b-0413aa4b5c2d" />
